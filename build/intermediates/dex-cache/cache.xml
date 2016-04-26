@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-c89d3489c1d38ee59b82f9057d5b96c2ece9f8fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-ae73d85e7bb9afde3fab201547e8d52b6db560f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-c61e160cd3a55246c81dbd236487807f809045f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6bdcff5dca9936b14b79a0964c11777e37ad7405.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-0a160fdfc67c37e2b5370fc8ebc2a6345fd2f08a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-355a7486ac9a25ee25fda043df2cfcbbcd9b3901.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-3f711f2b9b67ec2aae1bfd75c8ec6161f926dfff.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-43dec88410403bb4a442474778816c6adcaa9043.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-a40a7c096b4fddf17ee37755d72089f533cad5d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-934febfd3fe86aff0a76e70caff305bacfa5e28d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-c89884c2f3efcf42150f211e55a6aa420d60af09.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-3bbe0f2bbdf0afb600c9b9d790fda516de026ca2.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-b06e10afac8261fa1bf0c0df0b27749cdba7cc87.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-064e3a8470f4d3dfe3b55849051f440aae8d4fa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-72b0bcd5379adf19e786e8ec3c9dc925458cb7d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-000d4922b32af79b7bbf2df96e79d8d6a8ce43f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-800a0d836dab9389d2515898aeb7e002cea64702.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-54cf963fc323b07726a219bb3097242b2f114989.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-741c6851a49bdeec848eb45cf55df18903b95f2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-13d8d7822f12ee742c9df6bafd256c249c5a9903.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-5d1c2b736d5fe2c823bce873e8290db4bdb660bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-1676ab001a704fed7220fe4a2022f396221cad89.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-81c7b2eae5438d1affe15af0be7ac327d25f9e8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-9d4a3e3b757a2f9846f5dad36ea64f2651dbfc76.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-81fea141d73f2ec8164c190efd1b36cca4a443b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-d3fd3f65cc9dce643bf98e9ce3303d90ffdc62ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\NoteApp\app\build\intermediates\pre-dexed\debug\classes-ae4e24029960860b5216dee14941d112710f63b6.jar" />
+    </item>
+
+</items>

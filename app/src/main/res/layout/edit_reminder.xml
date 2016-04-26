@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:layout_marginTop="10dp" android:id="@+id/edit_upper_layout" android:orientation="horizontal"
+    android:weightSum="1">
+    <EditText
+        android:layout_width="340dp"
+        android:layout_height="205dp"
+
+        android:background="@drawable/rounded_edit"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHighlight="#8900"
+        android:gravity="top|start"
+        android:paddingTop="10dp"
+        android:text="edit remainder"
+        android:id="@+id/edit_remainder_edittext"
+        android:layout_weight="1.05" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_below="@+id/edit_upper_layout" android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ok"
+            android:id="@+id/edit_remainder_ok_button"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="clear"
+            android:id="@+id/edit_remainder_clear_button"/>
+    </LinearLayout>
+</RelativeLayout>
